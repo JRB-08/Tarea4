@@ -44,22 +44,22 @@ Antes de atravesar los canales ruidosos:
 https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDnormal.png
 
 Después de atravesar el canal ruidoso con SNR = -2dB
-https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR-2.png
+https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR-2dB.png
 
 Después de atravesar el canal ruidoso con SNR = -1dB
-https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR-1.png
+https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR-1dB.png
 
 Después de atravesar el canal ruidoso con SNR = 0dB
-https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR0.png
+https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR0dB.png
 
 Después de atravesar el canal ruidoso con SNR = 1dB
-https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR1.png
+https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR1dB.png
 
 Después de atravesar el canal ruidoso con SNR = 2dB
-https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR2.png
+https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR2dB.png
 
 Después de atravesar el canal ruidoso con SNR = 3dB
-https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR3.png
+https://raw.githubusercontent.com/JRB-08/Tarea4/master/PSDSNR3dB.png
 
 # Parte 5
 
